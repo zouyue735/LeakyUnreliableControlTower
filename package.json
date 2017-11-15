@@ -1,0 +1,22 @@
+{
+  "name": "leakyunreliablecontroltower",
+  "version": "1.0.0",
+  "description": "leaky and unreliable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouyue735/LeakyUnreliableControlTower.git"
+  },
+  "author": "zy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zouyue735/LeakyUnreliableControlTower/issues"
+  },
+  "homepage": "https://github.com/zouyue735/LeakyUnreliableControlTower#readme",
+  "dependencies": {
+    "etcd3": "^0.2.6"
+  }
+}
